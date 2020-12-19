@@ -18,5 +18,6 @@ int main()
         if(B > C) cout << "Наибольшее число " << B;
         else cout << "Наибольшее число " << C;
     }
+	сout<<"Change";
     return 0;
 }
